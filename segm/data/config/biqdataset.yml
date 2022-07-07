@@ -1,0 +1,176 @@
+- color: 
+  - 0
+  - 0
+  - 0
+  id: 0
+  isthing: 0
+  weight: 1
+  name: background
+- color: 
+  - 255
+  - 0
+  - 0
+  id: 1
+  isthing: 0
+  weight: 3
+  name: glass
+- color:
+  - 128
+  - 0
+  - 0
+  id: 2
+  isthing: 0
+  weight: 2
+  name: wall
+- color:
+  - 128
+  - 128
+  - 128
+  id: 3
+  isthing: 0
+  weight: 2
+  name: road
+- color:
+  - 128
+  - 0
+  - 128
+  id: 4
+  isthing: 0
+  weight: 3
+  name: building
+- color:
+  - 255
+  - 165
+  - 0
+  id: 5
+  isthing: 0
+  weight: 2
+  name: bed
+- color:
+  - 255
+  - 0
+  - 255
+  id: 6
+  isthing: 0
+  weight: 2
+  name: cabinet
+- color:
+  - 218
+  - 165
+  - 32
+  id: 7
+  isthing: 0
+  weight: 3
+  name: car
+- color:
+  - 0
+  - 0
+  - 255
+  id: 8
+  isthing: 0
+  weight: 3
+  name: ceiling
+- color:
+  - 188
+  - 143
+  - 143
+  id: 9
+  isthing: 0
+  weight: 2
+  name: floor
+- color:
+  - 124
+  - 252
+  - 0
+  id: 10
+  isthing: 0
+  weight: 3
+  name: lawn
+- color:
+  - 255
+  - 255
+  - 0
+  id: 11
+  isthing: 0
+  weight: 3
+  name: people
+- color:
+  - 50
+  - 205
+  - 50
+  id: 12
+  isthing: 0
+  weight: 3
+  name: plants
+- color:
+  - 75
+  - 0
+  - 130
+  id: 13
+  isthing: 0
+  weight: 2
+  name: refrigerator
+- color:
+  - 255
+  - 0
+  - 255
+  id: 14
+  isthing: 0
+  weight: 2
+  name: shelf
+- color:
+  - 135
+  - 206
+  - 235
+  id: 15
+  isthing: 0
+  weight: 2
+  name: sky
+- color:
+  - 240
+  - 230
+  - 140
+  id: 16
+  isthing: 0
+  weight: 2
+  name: sofa
+- color:
+  - 0
+  - 128
+  - 128
+  id: 17
+  isthing: 0
+  weight: 2
+  name: table
+- color:
+  - 0
+  - 128
+  - 0
+  id: 18
+  isthing: 0
+  weight: 3
+  name: tree
+- color:
+  - 100
+  - 149
+  - 237
+  id: 19
+  isthing: 0
+  weight: 2
+  name: tv
+- color:
+  - 0
+  - 255
+  - 255
+  id: 20
+  isthing: 0
+  weight: 1
+  name: water
+- color:
+  - 210
+  - 105
+  - 30
+  id: 21
+  isthing: 0
+  weight: 1
+  name: chair
